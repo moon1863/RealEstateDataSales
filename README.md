@@ -1,5 +1,4 @@
-# RealEstateDataSales
-To predict sales for the real estate market 
+# RealEstatePricePrediction
 
 We predict the residential home sales price in a mid-western city as a function of various characteristics of the home and 
 surrounding property. 522 sets of data along with 12 variables have been used initially to fit the model. Issue such as 
